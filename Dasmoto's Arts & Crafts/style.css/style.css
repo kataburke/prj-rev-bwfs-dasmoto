@@ -1,0 +1,46 @@
+body {
+	font-family: Helvetica;
+}
+
+.header,
+h1{
+	text-align: center;
+	color: khaki;
+	font-weight: bold;
+	font-size: 100px;
+
+}
+
+
+.brushes
+h2{
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	background-color: mediumspringgreen;
+	display: block;
+}
+
+
+
+
+.frames
+h2{
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	background-color: lightcoral;
+	display: block;
+}
+
+
+
+.paint
+h2{
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	background-color: skyblue;
+	display: block;
+	
+}
